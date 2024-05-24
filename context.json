@@ -1,0 +1,597 @@
+{
+    "AAPL": {
+        "chat_gpt": "Rumored to be entering the autonomous vehicle space, which could significantly impact the market if true.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TechOperator/status/1788552575425425863",
+                "text": "I own both $TSLA and $AAPL and am a big fan of each. However, Tesla is developing full self driving cars and robots. This week, Apple released a buzzy pencil. Today I will liquidate one position to invest in the other.",
+                "username": "TechOperator",
+                "user_url": "https://twitter.com/TechOperator",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1755800653740257280/KKwMYqYz_normal.jpg",
+                "date": "2024-05-09T12:52:18Z"
+            },
+            {
+                "url": "https://twitter.com/KevRGordon/status/1788238996155343007",
+                "text": "The Utilities sector is outperforming three Magnificent 7 members -- $MSFT, $AAPL, and $TSLA -- so far this year https://t.co/IxDvXyl2XY",
+                "username": "KevRGordon",
+                "user_url": "https://twitter.com/KevRGordon",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1768756367593177088/ccXrOxex_normal.jpg",
+                "date": "2024-05-08T16:06:15Z"
+            },
+            {
+                "url": "https://twitter.com/professorDman1/status/1788587458801586315",
+                "text": "Sector going again \ud83c\udfc3\u200d\u2642\ufe0f gaining momentum $ACB $TLRY $MSOS $SNDL $CGC  ( $BCAN is in same sector #CBD #Cannabis #AI software #Femtec current SP .96 cents for BCAN &gt; has huge gap to fill upside \u2705 \nI\u2019m still holding long on $AMD $NVDA $TSLA $MSFT $AAPL few other big cap set ups",
+                "username": "professorDman1",
+                "user_url": "https://twitter.com/professorDman1",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1385408400268267530/LzSUghLV_normal.jpg",
+                "date": "2024-05-09T15:10:55Z"
+            }
+        ],
+        "experts": []
+    },
+    "ADSK": {
+        "chat_gpt": "Autodesk's software is used for designing and simulating self-driving car systems, indirectly benefiting from the trend.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMBA": {
+        "chat_gpt": "Produces high-definition video processing chips, crucial for autonomous vehicles' vision systems.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon could leverage self-driving technology for logistics and delivery services, reducing costs and improving efficiency.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://evmagazine.com/self-drive/top-10-companies-leveraging-ai-for-self-driving-evs",
+                "title": "Top 10 companies leveraging AI for self-driving EVs",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/3-self-driving-stocks-that-can-take-the-wheel-from-tesla",
+                "title": "3 Self-Driving Stocks That Can Take the Wheel From Tesla",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "ANSS": {
+        "chat_gpt": "ANSYS software is crucial for simulating autonomous vehicle technologies, helping to speed up development.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "BIDU": {
+        "chat_gpt": "Leading the development of autonomous driving technology in China, a major market for self-driving cars.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://builtin.com/articles/self-driving-car-companies",
+                "title": "28 Top Self-Driving Car Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://evmagazine.com/self-drive/top-10-companies-leveraging-ai-for-self-driving-evs",
+                "title": "Top 10 companies leveraging AI for self-driving EVs",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "F": {
+        "chat_gpt": "Ford is actively developing self-driving technologies and partnerships, positioning it to benefit from the trend.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "GM": {
+        "chat_gpt": "Investing heavily in autonomous vehicles through its Cruise division, positioned to benefit from the shift.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "GOOGL": {
+        "chat_gpt": "Through Waymo, involved in the development of self-driving technology, standing to gain as the technology advances.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://builtin.com/articles/self-driving-car-companies",
+                "title": "28 Top Self-Driving Car Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://evmagazine.com/self-drive/top-10-companies-leveraging-ai-for-self-driving-evs",
+                "title": "Top 10 companies leveraging AI for self-driving EVs",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "INTC": {
+        "chat_gpt": "Through its Mobileye division, it's a key player in computer vision technologies for autonomous vehicles.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Trading_Sunset/status/1788315751188693225",
+                "text": "Tesla $TSLA settled -1.7% to $174.72. DoJ/SEC probe into self driving claims/comments. I see it as political persecution of Musk. \n--\n$ARM $HOOD $ABNB $AMC $TTD $BYND $APP $ET\n$DUOL $EXAS $RDDT $TOST $LYFT $SHOP $TRIP\n$UPST $UBER $TWLO $TSLA $INTC $PAAS $KGC https://t.co/cITXNR3uBi",
+                "username": "Trading_Sunset",
+                "user_url": "https://twitter.com/Trading_Sunset",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1302039310091378690/VTBMid-L_normal.jpg",
+                "date": "2024-05-08T21:11:15Z"
+            },
+            {
+                "url": "https://twitter.com/AuthenticGospel/status/1788338971308703981",
+                "text": "$INTC was over $40 when Biden gave them $8.5B from the #CHIPSACT. \n\nWhy isn't the Ultra Rich Tech Industry going to the markets for funding instead of the Federal Govt?\n\n$INTC has $25 Billion in Cash anyway......\n\n$TSM $AMD $NVDA $IBM $TSLA $QQQ $SOXL\n\nhttps://t.co/X3sjQBz109",
+                "username": "AuthenticGospel",
+                "user_url": "https://twitter.com/AuthenticGospel",
+                "user_image_url": "https://pbs.twimg.com/profile_images/471938546207444992/oaLGXbDL_normal.jpeg",
+                "date": "2024-05-08T22:43:31Z"
+            },
+            {
+                "url": "https://twitter.com/thetokenist/status/1788261272976318818",
+                "text": "The Daily Update:\n\nIntel $INTC shareholders are paying for future growth, but long-term investors may have seen a buying opportunity; Tesla $TSLA is reportedly facing a federal probe over alleged securities and wire fraud related to self-driving claims; Euronav $EURN announced a $495 million profit in Q1 2024; Shopify's $SHOP Q1 2024 revenue rose 23% to $1.9 billion; and $UBER reported a surprising $0.32 per share loss in Q1 2024.",
+                "username": "thetokenist",
+                "user_url": "https://twitter.com/thetokenist",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1436671575638556672/sjMk_JUh_normal.png",
+                "date": "2024-05-08T17:34:46Z"
+            }
+        ],
+        "experts": []
+    },
+    "LAZR": {
+        "chat_gpt": "Luminar Technologies is another major player in LiDAR sensors, critical for autonomous driving systems.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LYFT": {
+        "chat_gpt": "Similar to UBER, stands to gain from the adoption of self-driving cars by reducing the need for human drivers.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MSFT": {
+        "chat_gpt": "Through Azure, Microsoft offers cloud services that can process the vast amounts of data generated by autonomous vehicles.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/KevRGordon/status/1788238996155343007",
+                "text": "The Utilities sector is outperforming three Magnificent 7 members -- $MSFT, $AAPL, and $TSLA -- so far this year https://t.co/IxDvXyl2XY",
+                "username": "KevRGordon",
+                "user_url": "https://twitter.com/KevRGordon",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1768756367593177088/ccXrOxex_normal.jpg",
+                "date": "2024-05-08T16:06:15Z"
+            },
+            {
+                "url": "https://twitter.com/professorDman1/status/1788587458801586315",
+                "text": "Sector going again \ud83c\udfc3\u200d\u2642\ufe0f gaining momentum $ACB $TLRY $MSOS $SNDL $CGC  ( $BCAN is in same sector #CBD #Cannabis #AI software #Femtec current SP .96 cents for BCAN &gt; has huge gap to fill upside \u2705 \nI\u2019m still holding long on $AMD $NVDA $TSLA $MSFT $AAPL few other big cap set ups",
+                "username": "professorDman1",
+                "user_url": "https://twitter.com/professorDman1",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1385408400268267530/LzSUghLV_normal.jpg",
+                "date": "2024-05-09T15:10:55Z"
+            },
+            {
+                "url": "https://twitter.com/seti_park/status/1788380967226458408",
+                "text": "$TSLA $NVDA $MSFT\n\nTomorrow, I'll dive deep into the human-like hands of humanoid robots \ud83e\udd16\ud83e\udef6 by comparing Tesla and Sanctuary AI, a Canadian startup that I personally believe has one of the best human-like robotic hands in the industry.\n\nThe thread will include a definition of DOF (Degrees of Freedom) and an insightful comparison between Tesla's humanoid, \"Optimus\" and Sanctuary AI's humanoid, \"Phoenix\". Sanctuary AI is one of the participants in Nvidia's foundation model for humanoid robots, 'GR00T', which was unveiled at GTC 2024, and has recently collaborated with Microsoft for general-purpose robot research.\n\nI guarantee it will be an informative and engaging read! \ud83d\ude01\n\n#HumanoidRobots #RoboticHands #Tesla #Optimus #SanctuaryAI #Phoenix #Nvidia #GR00T #Microsoft #AI #Robotics",
+                "username": "seti_park",
+                "user_url": "https://twitter.com/seti_park",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1780963171840442369/96Tu-hNK_normal.jpg",
+                "date": "2024-05-09T01:30:23Z"
+            }
+        ],
+        "experts": []
+    },
+    "NVDA": {
+        "chat_gpt": "Provides GPUs for AI and machine learning, crucial for the development of autonomous driving technologies.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://builtin.com/articles/self-driving-car-companies",
+                "title": "28 Top Self-Driving Car Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/inversorcomotu/status/1788471218603020613",
+                "text": "Para todos los que critican que $SBUX ya no es lo que era:\n\nAqu\u00ed un recordatorio de que es la marca m\u00e1s valiosa del sector restauraci\u00f3n.\n\nSi, m\u00e1s que $MCD y que $KO\n\nSi nos salimos del sector, tambi\u00e9n podemos decir que es m\u00e1s valiosa que $TSLA, YouTube, $NKE, $MC.PA, $NVDA etc https://t.co/pZbZfRdWm4",
+                "username": "inversorcomotu",
+                "user_url": "https://twitter.com/inversorcomotu",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1625121445633294336/Ng91y1DC_normal.jpg",
+                "date": "2024-05-09T07:29:01Z"
+            },
+            {
+                "url": "https://twitter.com/professorDman1/status/1788587458801586315",
+                "text": "Sector going again \ud83c\udfc3\u200d\u2642\ufe0f gaining momentum $ACB $TLRY $MSOS $SNDL $CGC  ( $BCAN is in same sector #CBD #Cannabis #AI software #Femtec current SP .96 cents for BCAN &gt; has huge gap to fill upside \u2705 \nI\u2019m still holding long on $AMD $NVDA $TSLA $MSFT $AAPL few other big cap set ups",
+                "username": "professorDman1",
+                "user_url": "https://twitter.com/professorDman1",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1385408400268267530/LzSUghLV_normal.jpg",
+                "date": "2024-05-09T15:10:55Z"
+            },
+            {
+                "url": "https://twitter.com/Krystof2000/status/1788537445002485982",
+                "text": "Current overview of the Mempool sector per https://t.co/fEnLUlmmAI\n\nGo Bulls!\u2764\ufe0f\n$MSTR $MARA $CLSK $IREN $SQ $PYPL $SOFI $HOOD $COIN $NVDA $TSLA $META $AAPL $AMZN $GOOGL $SMCI $SPY $QQQ $DIA #Bitcoin #BitcoinPostHalving #BitcoinCyclePeak #MiningMafia #IrresponsiblyLongMSTR $CPOP $SEZL $GWAV $IVP $TIVC $CTMX $NIO $ARM $SHOP",
+                "username": "Krystof2000",
+                "user_url": "https://twitter.com/Krystof2000",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1667312902930579456/E26VU0zJ_normal.jpg",
+                "date": "2024-05-09T11:52:10Z"
+            }
+        ],
+        "experts": []
+    },
+    "PLTR": {
+        "chat_gpt": "While not directly in the automotive sector, Palantir's data analytics could play a role in optimizing self-driving fleet operations.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "QCOM": {
+        "chat_gpt": "Develops technologies and chips for vehicle-to-everything (V2X) communications, essential for autonomous driving.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "TSLA": {
+        "chat_gpt": "Leading in the development and production of self-driving cars, directly benefiting from their adoption.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://builtin.com/articles/self-driving-car-companies",
+                "title": "28 Top Self-Driving Car Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://evmagazine.com/self-drive/top-10-companies-leveraging-ai-for-self-driving-evs",
+                "title": "Top 10 companies leveraging AI for self-driving EVs",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/herbertong/status/1788565420657848451",
+                "text": "NEWS: $TSLA's FSD Tech Breaks Through Challenges for Open-Road Testing in China\n\n\u2022 8 main districts in Hangzhou, China will be made available to pilot tests of self-driving vehicles from May 1, according to a report by local outlet Qianjiang Evening News.\n\n\u2022 The regulation doesn't specify the exact level of autonomous driving allowed, but previously permits for up to L4 autonomy have been granted.\n\n\u2022 Hangzhou is the first city in China to define the specific process for autonomous vehicles on public roads through local legislation, and it is also the first city to enact laws for low-speed unmanned vehicles.\n\n\u2022 In Beijing and Shanghai, autonomous driving is still only allowed in the outer suburbs, while just 5% of central Guangzhou is open for autonomous driving.\n\n\u2022 Tesla is looking to get approval to test Robotaxi in Shanghai but needs clearance from Chinese regulators before it can fully roll out FSD and collect the data required to train the software.\n\nLink: https://t.co/TckHDju15n",
+                "username": "herbertong",
+                "user_url": "https://twitter.com/herbertong",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1488999112678670337/o1fCjg30_normal.jpg",
+                "date": "2024-05-09T13:43:20Z"
+            },
+            {
+                "url": "https://twitter.com/DeItaone/status/1788178032059916299",
+                "text": "$TSLA\n\nUS PROSECUTORS EXAMINING WHETHER TESLA COMMITTED SECURITIES, WIRE FRAUD IN CRIMINAL PROBE OF SELF-DRIVING CLAIMS -THREE SOURCES",
+                "username": "DeItaone",
+                "user_url": "https://twitter.com/DeItaone",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1282648991348527104/A8HCjqZk_normal.jpg",
+                "date": "2024-05-08T12:04:00Z"
+            },
+            {
+                "url": "https://twitter.com/Tslachan/status/1788414146314399866",
+                "text": "$TSLA \ud83c\udde8\ud83c\uddf3\nOn May 6, Zhang Ying, director of the Shanghai Economic Information Technology Commission, noted that Shanghai will accelerate the construction of world-class self-driving pilots to facilitate early road adoption of self-driving vehicles. https://t.co/g0VnBO6DGJ",
+                "username": "Tslachan",
+                "user_url": "https://twitter.com/Tslachan",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1609591810590150656/37D9t8ct_normal.jpg",
+                "date": "2024-05-09T03:42:14Z"
+            }
+        ],
+        "experts": []
+    },
+    "TXN": {
+        "chat_gpt": "Texas Instruments provides various semiconductor products used in automotive applications, including self-driving cars.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "UBER": {
+        "chat_gpt": "Investing in autonomous driving technology to reduce reliance on human drivers, which could lower costs and increase margins.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://builtin.com/articles/self-driving-car-companies",
+                "title": "28 Top Self-Driving Car Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://yoshalawfirm.com/blog/5-top-self-driving-car-manufacturers/",
+                "title": "5 Top Self-Driving Car Manufacturers",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/garyblack00/status/1788594894979674348",
+                "text": "$UBER CEO Dara Khosrowshahi\u2019s comments on $TSLA and autonomy:\n1/ AV technology will be very good for the ride-hailing industry since it will reduce costs and increase adoption.\n2/ AV technology will take a long time to develop - partly due to the regulatory framework required but also the tech itself can\u2019t make a jump from human drivers fully to AV.\n3/ Uber looking to partner with the AV industry and can bring a lot to the table - routing algorithms, pricing matching, payment systems. \n4/ $TSLA FSD looks like a great product.",
+                "username": "garyblack00",
+                "user_url": "https://twitter.com/garyblack00",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1425220761728520194/CwLMGJp0_normal.jpg",
+                "date": "2024-05-09T15:40:28Z"
+            },
+            {
+                "url": "https://twitter.com/finflexity/status/1788369338602549709",
+                "text": "$UBER: Uber CEO mentions how they want to integrate robotaxis on their app in the future. \n\nHe also mentions the $TSLA approach of \"end-to-end\" autonomy and says it's the best way to go. \n\nHe also shouts out Tesla FSD. https://t.co/K0o9P4Vicz",
+                "username": "finflexity",
+                "user_url": "https://twitter.com/finflexity",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1786711275617058816/ZOoJKXJ4_normal.jpg",
+                "date": "2024-05-09T00:44:11Z"
+            },
+            {
+                "url": "https://twitter.com/MMMTwealth/status/1788659964451463567",
+                "text": "Will $TSLA benefit $UBER or kill it?\n\nHere\u2019s what $UBER CEO says on the topic:\n\n1. AV technology will be very good for the ride-hailing industry. It\u2019ll reduce costs and increase adoption.\n\n2. AV technology will take a long time to develop. The regulatory environment combined with the complex tech will take a good few years still.\n\n3. $UBER will be looking to partner with the AV industry and can bring a lot to the table (routing algorithms, pricing matching, payment systems)\n\n4/ $TSLA FSD looks like a great product.\n\nWhat are your thoughts?",
+                "username": "MMMTwealth",
+                "user_url": "https://twitter.com/MMMTwealth",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1726901308580364288/ZRQ_B4Mj_normal.jpg",
+                "date": "2024-05-09T19:59:01Z"
+            }
+        ],
+        "experts": []
+    },
+    "APTV": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2023/07/3-autonomous-driving-stocks-you-better-be-buying-on-each-and-every-dip/",
+                "title": "3 Autonomous Driving Stocks You Better Be Buying on ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "MBLY": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://investorplace.com/2023/09/the-7-best-autonomous-driving-stocks-to-buy-now-september-2023/",
+                "title": "The 7 Best Autonomous Driving Stocks to Buy Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/the-7-best-autonomous-driving-stocks-to-buy-now:-september-2023",
+                "title": "The 7 Best Autonomous Driving Stocks to Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "NXPI": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "HOOD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Trading_Sunset/status/1788315751188693225",
+                "text": "Tesla $TSLA settled -1.7% to $174.72. DoJ/SEC probe into self driving claims/comments. I see it as political persecution of Musk. \n--\n$ARM $HOOD $ABNB $AMC $TTD $BYND $APP $ET\n$DUOL $EXAS $RDDT $TOST $LYFT $SHOP $TRIP\n$UPST $UBER $TWLO $TSLA $INTC $PAAS $KGC https://t.co/cITXNR3uBi",
+                "username": "Trading_Sunset",
+                "user_url": "https://twitter.com/Trading_Sunset",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1302039310091378690/VTBMid-L_normal.jpg",
+                "date": "2024-05-08T21:11:15Z"
+            },
+            {
+                "url": "https://twitter.com/Krystof2000/status/1788537445002485982",
+                "text": "Current overview of the Mempool sector per https://t.co/fEnLUlmmAI\n\nGo Bulls!\u2764\ufe0f\n$MSTR $MARA $CLSK $IREN $SQ $PYPL $SOFI $HOOD $COIN $NVDA $TSLA $META $AAPL $AMZN $GOOGL $SMCI $SPY $QQQ $DIA #Bitcoin #BitcoinPostHalving #BitcoinCyclePeak #MiningMafia #IrresponsiblyLongMSTR $CPOP $SEZL $GWAV $IVP $TIVC $CTMX $NIO $ARM $SHOP",
+                "username": "Krystof2000",
+                "user_url": "https://twitter.com/Krystof2000",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1667312902930579456/E26VU0zJ_normal.jpg",
+                "date": "2024-05-09T11:52:10Z"
+            }
+        ],
+        "experts": []
+    },
+    "NIO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/zfinelife/status/1788580034350809167",
+                "text": "Interesting development in #EV industry which is predominantly controlled by china. $NIO startup joining hands with $BYYD which is now world\u2019s larget producer of EVs after dethroning $tsla recently https://t.co/DLZRHDT5Tp",
+                "username": "zfinelife",
+                "user_url": "https://twitter.com/zfinelife",
+                "user_image_url": "https://pbs.twimg.com/profile_images/993415832180023296/fZ8jcz8g_normal.jpg",
+                "date": "2024-05-09T14:41:25Z"
+            },
+            {
+                "url": "https://twitter.com/ripster47/status/1788240312063734159",
+                "text": "$NIO $LCID  \ud83d\udea6\ud83d\udea6Has probably bagged most people looking for next $TSLA\nThis sector overall not getting love but many of casual investors put so much money in these two names, non active traders as well. This is  Bag holder Paradise!\nDNT INVEST WITHOUT RISK DEFINED! PERIOD",
+                "username": "ripster47",
+                "user_url": "https://twitter.com/ripster47",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742746327514329088/QOb_mn9v_normal.jpg",
+                "date": "2024-05-08T16:11:28Z"
+            },
+            {
+                "url": "https://twitter.com/EVandAutonomy/status/1788275094114148561",
+                "text": "I don't know whether it's true or not but it's normal that most EV startups focus more on design and integration, sales and marketing in the beginning.\n\nOn the other hand, industry talents and  advanced supply chain do help them to close the tech gap.\n\n$TSLA #BYD $NIO $XPEV $LI",
+                "username": "EVandAutonomy",
+                "user_url": "https://twitter.com/EVandAutonomy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1714317730822926336/w2WlYAJ__normal.jpg",
+                "date": "2024-05-08T18:29:41Z"
+            }
+        ],
+        "experts": []
+    },
+    "AUR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://builtin.com/articles/self-driving-car-companies",
+                "title": "28 Top Self-Driving Car Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2023/09/the-7-best-autonomous-driving-stocks-to-buy-now-september-2023/",
+                "title": "The 7 Best Autonomous Driving Stocks to Buy Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/the-7-best-autonomous-driving-stocks-to-buy-now:-september-2023",
+                "title": "The 7 Best Autonomous Driving Stocks to Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "MU": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+                "title": "8 Self-Driving Car Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/stock-screener/self-driving-car-stocks",
+                "title": "Self Driving Car Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "TM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://builtin.com/articles/self-driving-car-companies",
+                "title": "28 Top Self-Driving Car Companies to Know",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.aitimejournal.com/autonomous-vehicles-companies-to-watch/",
+                "title": "Top Autonomous Vehicles Companies to Watch in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "XPEV": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://investorplace.com/2023/09/the-7-best-autonomous-driving-stocks-to-buy-now-september-2023/",
+                "title": "The 7 Best Autonomous Driving Stocks to Buy Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/the-7-best-autonomous-driving-stocks-to-buy-now:-september-2023",
+                "title": "The 7 Best Autonomous Driving Stocks to Buy Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
