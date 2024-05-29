@@ -1,5 +1,6 @@
 {
     "name": "self driving",
     "prompt": "Self driving cars arrive before 2030, the world is not ready. Overall capital owners in transportation win, while labor loses. Companies selling, supplying, and marketing self driving cars will win. Companies dependent on drivers will win.",
+    "explanation": "We often over-estimate change in the short term and under-estimate the changes in the long term. Self-driving is one of those, Elon Musk has been famously over-estimating this change. Yet, today self driving cars are powering ride shares in Phoenix and San Francisco, while Tesla is a software update away from deploying autonomous vehicles. We are closer than most notice. As autonomous vehicles become more prevalent, capital owners in the transportation sector are likely to benefit from reduced labor costs and increased efficiency. Companies at the forefront of self-driving technology, including manufacturers and suppliers, are positioned for substantial growth. Conversely, businesses reliant on human drivers may face disruptions, but those adapting to or incorporating autonomous technology can capitalize on this transformative shift in the transportation landscape.",
     "github_repo": "self-driving"
 }
