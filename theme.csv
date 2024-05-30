@@ -1,14 +1,10 @@
 symbol,sources
-AAPL,"chat_gpt,twitter"
 ADSK,chat_gpt
 AMBA,chat_gpt
 AMZN,"chat_gpt,google"
 ANSS,chat_gpt
 BIDU,"chat_gpt,google"
-F,"chat_gpt,claude,google"
-GM,"chat_gpt,claude,google"
 GOOGL,"chat_gpt,claude,google"
-INTC,"chat_gpt,claude,twitter,google"
 LAZR,chat_gpt
 LYFT,"chat_gpt,claude"
 MSFT,"chat_gpt,twitter"
@@ -22,7 +18,6 @@ APTV,"claude,google"
 MBLY,"claude,google"
 NXPI,"claude,google"
 STM,claude
-HOOD,twitter
 NIO,twitter
 AUR,google
 MU,google
