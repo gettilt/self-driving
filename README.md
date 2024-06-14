@@ -73,7 +73,6 @@ with open('theme.csv') as file:
 | APTV |  | claude,google |
 | MBLY |  | claude,google |
 | NXPI |  | claude,google |
-| STM |  | claude |
 | NIO |  | twitter |
 | AUR |  | google |
 | MU |  | google |
